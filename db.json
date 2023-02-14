@@ -1,10 +1,90 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Myra"
-        }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "name": "Danny Thompson",
+      "id": 3
+    },
+    {
+      "name": "Gerald Koch II",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Licensed Steel Computer",
+      "id": 12
+    },
+    {
+      "userId": 3,
+      "title": "Generic Metal Pants",
+      "id": 15
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Soft Bacon",
+      "id": 16
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Steel Towels",
+      "id": 17
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Metal Chips",
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "title": "Bespoke Metal Gloves",
+      "id": 19
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Soft Keyboard",
+      "id": 20
+    },
+    {
+      "userId": 3,
+      "title": "Oriental Frozen Keyboard",
+      "id": 21
+    },
+    {
+      "userId": 3,
+      "title": "Tasty Bronze Computer",
+      "id": 22
+    },
+    {
+      "userId": 3,
+      "title": "Handcrafted Soft Mouse",
+      "id": 23
+    },
+    {
+      "userId": 3,
+      "title": "Modern Wooden Chair",
+      "id": 24
+    },
+    {
+      "userId": 3,
+      "title": "Rustic Soft Hat",
+      "id": 25
+    },
+    {
+      "userId": 4,
+      "title": "Luxurious Metal Shoes",
+      "id": 26
+    },
+    {
+      "userId": 4,
+      "title": "Luxurious Frozen Towels",
+      "id": 27
+    },
+    {
+      "userId": 4,
+      "title": "Unbranded Wooden Pants",
+      "id": 28
+    }
+  ],
+  "photos": []
 }
